@@ -1,0 +1,21 @@
+[
+    {
+        "id":1,
+        "team":"bangalore",
+        "captain":"dhoni"
+
+       
+    },
+    {
+      "id":2,
+        "team":"chennai",
+         "captain":"virat"
+         
+    },
+    {
+        "id":3,
+        "team":"mumbai",
+         "captain":"rohit"
+       
+    }
+]
